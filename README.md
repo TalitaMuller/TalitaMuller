@@ -7,7 +7,7 @@ Sou estudante do 4º semestre de Tecnologia em Sistemas para Internet no IFSul e
 Sou apaixonada por tecnologia, desenvolvimento de software, liderança e trabalho em equipe. Gosto de transformar ideias em soluções, compartilhar conhecimentos e participar de projetos que gerem impacto positivo na sociedade.
 
 - 🔭 Atualmente estou trabalhando em projetos acadêmicos, jogos educativos e no desenvolvimento de uma solução para meu TCC.
-- 🌱 Atualmente estou aprofundando meus conhecimentos em Java, JavaScript, TypeScript, desenvolvimento web, banco de dados e Internet das Coisas (IoT).
+- 🌱 Atualmente estou aprofundando meus conhecimentos em Java, JavaScript, desenvolvimento web, banco de dados, C# e Unity 6.
 - 👯 Faço parte da equipe de criação da CodeLab Jr., futura empresa júnior do curso de Tecnologia em Sistemas para Internet.
 - 💜 Sou presidente do CATSI (Centro Acadêmico de Tecnologia em Sistemas para Internet), onde atuo voluntariamente na representação estudantil e organização de eventos.
 - 🎮 Sou líder técnica de uma equipe de desenvolvimento de jogos educativos para crianças de escolas públicas.
