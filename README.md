@@ -79,17 +79,10 @@ Sou apaixonada por tecnologia, desenvolvimento de software, liderança e trabalh
 
 ## 📚 Formação Complementar
 
-- PROEM+Tech — Senac;
-- RSTI — Senac;
-- START — Senac;
-- Profissional Digital — Instituto Mix (2022).
+- PROEM+Tech — UniSenac;
+- RSTI — UniSenac;
+- Programa Start — Prefeitura de Pelotas;
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TalitaMuller&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaMuller&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
