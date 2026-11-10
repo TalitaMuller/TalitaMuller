@@ -1,6 +1,6 @@
 ## Hi there! I'm Talita Müller 👋
 
-### Internet Systems Technology Student | Aspiring Software Developer
+### Systems Development Technician | Undergraduate Student in Internet Systems Technology
 
 I'm a fourth-semester Internet Systems Technology student at IFSul and a certified Systems Development Technician from UniSenac.
 
