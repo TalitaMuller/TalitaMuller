@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Talita Müller 👋
 
-### Estudante de Tecnologia em Sistemas para Internet | Desenvolvedora em formação
+### Técnica em Desenvolvimento de Sistemas | Graduanda em Tecnologia em Sistemas para Internet
 
 Sou estudante do 4º semestre de Tecnologia em Sistemas para Internet no IFSul e formada como Técnica em Desenvolvimento de Sistemas pelo UniSenac.
 
