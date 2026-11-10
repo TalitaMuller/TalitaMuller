@@ -80,9 +80,8 @@ Sou apaixonada por tecnologia, desenvolvimento de software, liderança e trabalh
 ## 📚 Formação Complementar
 
 - PROEM+Tech — UniSenac;
-- RSTI — UniSenac;
+- Programa RS TI — UniSenac;
 - Programa Start — Prefeitura de Pelotas;
-
 
 ---
 
